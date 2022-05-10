@@ -5,5 +5,6 @@ package com.bridgelabz;
         Node <T> next;
         public Node(T data) {
             this.data=data;
+
         }
 }
